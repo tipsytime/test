@@ -16,7 +16,7 @@
  */
 
 get_header(); ?>
-<h1>TEST</h1>
+<h1>STUPID TEST</h1>
 <div class="wrap">
 	<?php if ( is_home() && ! is_front_page() ) : ?>
 		<header class="page-header">
